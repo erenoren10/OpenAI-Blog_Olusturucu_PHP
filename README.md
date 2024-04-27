@@ -1,6 +1,8 @@
-# OpenAI Blog Oluşturucu (PHP)
+# OpenAI Blog Oluşturucu (PHP) (%70'i bitti)
 
 Bu repo, OpenAI API'sini kullanarak PHP ile geliştirilmiş bir blog oluşturma sitesi projesini içerir. Bu projenin amacı, kullanıcıların OpenAI API'sini kullanarak otomatik olarak içerik oluşturmasına ve bir blog platformunda yayınlamasına olanak tanımaktır.
+
+!!!! OLUŞTURDUĞUNUZ BLOGLARI GÖRMEK İÇİN BLOG ARŞİVİ SAYFASINA TIKALYIN !!!!!
 
 ## Klasör Yapısı
 
